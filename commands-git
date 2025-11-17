@@ -8,3 +8,9 @@ git push
 
 Commande pour pull :
 git pull
+
+Créer une branche :
+git branch <nom-de-branche>
+
+Changer de branche :
+git checkout <nom-de-branche>

@@ -1,7 +1,10 @@
-Cloner un repository :
+Cloner un "repository" :
 git clone <url>
 
 Les commandes pour push :
 git add .
 git commit -m "message"
 git push
+
+Commande pour pull :
+git pull
